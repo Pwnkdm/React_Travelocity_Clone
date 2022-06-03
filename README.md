@@ -1,5 +1,6 @@
 # React_Travelocity_Clone
-(https://drive.google.com/file/d/1QDU2rjpd9GJ3APxLDclSPe-QJm_vkTc1/view?usp=sharing)
+
+![travelocity](https://user-images.githubusercontent.com/99590191/171815893-8ca5b724-643a-4a3c-9471-c115fe695ee7.png)
 
 
 This is the clone of the Travelocity website. Travelocity is an online travel agency. From this website, users can book a hotel room, flights, cars, etc. across the world.
