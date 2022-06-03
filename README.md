@@ -1,5 +1,5 @@
 # React_Travelocity_Clone
-<img  src="https://drive.google.com/file/d/1QDU2rjpd9GJ3APxLDclSPe-QJm_vkTc1/view?usp=sharing"/>
+("https://drive.google.com/file/d/1QDU2rjpd9GJ3APxLDclSPe-QJm_vkTc1/view?usp=sharing")
 This is the clone of the Travelocity website. Travelocity is an online travel agency. From this website, users can book a hotel room, flights, cars, etc. across the world.
 For moving any other routes otherthan Homepage you need to login first by clicking on sign-in options. 
 After Login you can fill the simple form for booking any tour  after filling and submitting the form you will be redirected to respective city
